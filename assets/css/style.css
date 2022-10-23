@@ -1,0 +1,12 @@
+/* Etiquetas */
+body {
+    background-color: darkseagreen;
+}
+
+/* Clases */
+.textoCentrado {
+    text-align:center;
+}
+.textoRojo {
+    color:red
+}
